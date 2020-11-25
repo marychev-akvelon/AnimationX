@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "S5WR+rRPlq6y4jXNauujIUMrG002z+YE7uBShD8/w85ZIBxvOOzuTTZthtSbMJsWk+CuwS0mSCHMexLqpAERRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\AnimationX\\AnimationX\\AnimationX\\AnimationX.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.appcenter\\4.0.0\\microsoft.appcenter.4.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.appcenter.analytics\\4.0.0\\microsoft.appcenter.analytics.4.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.appcenter.crashes\\4.0.0\\microsoft.appcenter.crashes.4.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}

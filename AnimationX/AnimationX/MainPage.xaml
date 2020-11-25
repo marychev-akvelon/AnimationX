@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AnimationX.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Welcome to AnimationX!" HorizontalTextAlignment="Center" TextColor="Pink" FontSize="36"/>
+        </Frame>
+        <Label Text="Start developing now" FontSize="Title" Padding="30,10,30,10"/>
+
+        <Button Text="I open POPUP for you!" 
+                Clicked="HableClick" />
+
+        <Frame
+            x:Name="popuplayout"
+            HasShadow="True"
+            IsVisible="False"
+            Scale="0"
+            BackgroundColor="MediumPurple"
+            AbsoluteLayout.LayoutFlags="All"
+            AbsoluteLayout.LayoutBounds="1,1,0.5,0.5">
+            <StackLayout>
+                <Label Text="One"/>
+                <Label Text="Two"/>
+                <Label Text="Three"/>
+                <Label Text="Four"/>
+                <Label Text="Five"/>
+                <Label Text="Six"/>
+            </StackLayout>
+        </Frame>
+    </StackLayout>
+
+</ContentPage>

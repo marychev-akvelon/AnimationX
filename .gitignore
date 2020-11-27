@@ -1,0 +1,11 @@
+*.vs
+./AnimationX/bin/*
+./AnimationX/obj/*
+
+./AnimationX.Android/bin/*
+./AnimationX.Android/obj/*
+
+./AnimationX.IOS/bin/*
+./AnimationX.IOS/obj/*
+
+*zip
